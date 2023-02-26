@@ -1,4 +1,14 @@
-﻿Public Class frmMain
+﻿' Name: Tee Nguyen
+' GitHub Username: tnnguyen13
+' Date: 02/26/2023
+' Description: A Visual Basic form that calculates two types of depreciation - 
+'               straight-line and double-declining
+
+Public Class frmMain
+    ' This form utilizes several inputs that allows the users to customize their inputs
+    ' It also validates the data to make sure that depreciation can be calculated properly
+    ' It also allows the user to restart from the beginning, and to close the form.
+
     Private Sub btnCalc_Click(sender As Object, e As EventArgs) Handles btnCalc.Click
         ' Main event that handles data validation and calculation management
         ' following the user clicking on "Show Calculation"
@@ -6,7 +16,7 @@
         ' initializing function variables
         Dim strMethod As String
         Dim intYearPurch, intNoYears As Integer
-        Dim dblPurchAmount, dblDeprcAmount As Double
+        Dim dblPurchAmount As Double
 
         ' initializing arrays for later output
         Dim arrYear As Integer() = {}
