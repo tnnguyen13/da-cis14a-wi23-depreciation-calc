@@ -1,0 +1,13 @@
+C:\Users\nguye\OneDrive\School\FHDA Winter 2022\CIS 14A - Visual Basic\Projects\Project3\Project3\bin\Debug\Project3.exe.config
+C:\Users\nguye\OneDrive\School\FHDA Winter 2022\CIS 14A - Visual Basic\Projects\Project3\Project3\bin\Debug\Project3.exe
+C:\Users\nguye\OneDrive\School\FHDA Winter 2022\CIS 14A - Visual Basic\Projects\Project3\Project3\bin\Debug\Project3.pdb
+C:\Users\nguye\OneDrive\School\FHDA Winter 2022\CIS 14A - Visual Basic\Projects\Project3\Project3\bin\Debug\Project3.xml
+C:\Users\nguye\OneDrive\School\FHDA Winter 2022\CIS 14A - Visual Basic\Projects\Project3\Project3\obj\Debug\Project3.frmMain.resources
+C:\Users\nguye\OneDrive\School\FHDA Winter 2022\CIS 14A - Visual Basic\Projects\Project3\Project3\obj\Debug\Project3.Resources.resources
+C:\Users\nguye\OneDrive\School\FHDA Winter 2022\CIS 14A - Visual Basic\Projects\Project3\Project3\obj\Debug\Project3.vbproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\School\FHDA Winter 2022\CIS 14A - Visual Basic\Projects\Project3\Project3\obj\Debug\Project3.vbproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\School\FHDA Winter 2022\CIS 14A - Visual Basic\Projects\Project3\Project3\obj\Debug\Project3.exe
+C:\Users\nguye\OneDrive\School\FHDA Winter 2022\CIS 14A - Visual Basic\Projects\Project3\Project3\obj\Debug\Project3.xml
+C:\Users\nguye\OneDrive\School\FHDA Winter 2022\CIS 14A - Visual Basic\Projects\Project3\Project3\obj\Debug\Project3.pdb
+C:\Users\nguye\OneDrive\School\FHDA Winter 2022\CIS 14A - Visual Basic\Projects\Project3\Project3\obj\Debug\Project3.vbproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\School\FHDA Winter 2022\CIS 14A - Visual Basic\Projects\Project3\Project3\obj\Debug\Project3.Form2.resources
